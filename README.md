@@ -11,11 +11,9 @@
 ## Domain
 Tourism
 
-Problem Statement:
+## Problem Statement:
 Tourism agencies and travel platforms aim to enhance user experiences by leveraging data to provide personalized recommendations, predict user satisfaction, and classify potential user behavior. 
 This project involves analyzing user preferences, travel patterns, and attraction features to achieve three primary objectives: regression, classification, and recommendation.
-
-![Project Banner](Visualizations/monthly_rating_trends.png)
 
 ## 📌 Overview
 A Streamlit-powered recommendation system that predicts:
@@ -48,6 +46,15 @@ A Streamlit-powered recommendation system that predicts:
 - Explore attraction types and their popularity based on user ratings.
 - Investigate correlation between VisitMode and user demographics to identify patterns.
 - Analyze distribution of ratings across different attractions and regions.
+
+![Project Banner](Visualizations/monthly_rating_trends.png)
+![Project Banner](Visualizations/rating_distribution.png)
+![Project Banner](Visualizations/top_attractions_by_rating.png)
+![Project Banner](Visualizations/top_attractions_by_visits.png)
+![Project Banner](Visualizations/top_countries_by_users.png)
+![Project Banner](Visualizations/user_distribution_by_continent.png)
+![Project Banner](Visualizations/visit_mode_distribution.png)
+
 
 ## Model Training:
 ### Regression Task:
